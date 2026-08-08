@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/jadlisahil5-pixel/LeetcodeDSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/jadlisahil5-pixel/LeetcodeDSA/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -20,10 +21,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/jadlisahil5-pixel/LeetcodeDSA/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/jadlisahil5-pixel/LeetcodeDSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jadlisahil5-pixel/LeetcodeDSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jadlisahil5-pixel/LeetcodeDSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/jadlisahil5-pixel/LeetcodeDSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
