@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/jadlisahil5-pixel/LeetcodeDSA/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/jadlisahil5-pixel/LeetcodeDSA/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/jadlisahil5-pixel/LeetcodeDSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Math
 |  |
 | ------- |
@@ -20,4 +21,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/jadlisahil5-pixel/LeetcodeDSA/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/jadlisahil5-pixel/LeetcodeDSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/jadlisahil5-pixel/LeetcodeDSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
