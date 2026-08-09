@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/jadlisahil5-pixel/LeetcodeDSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/jadlisahil5-pixel/LeetcodeDSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jadlisahil5-pixel/LeetcodeDSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jadlisahil5-pixel/LeetcodeDSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/jadlisahil5-pixel/LeetcodeDSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/jadlisahil5-pixel/LeetcodeDSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jadlisahil5-pixel/LeetcodeDSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jadlisahil5-pixel/LeetcodeDSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Ternary Search
 |  |
 | ------- |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jadlisahil5-pixel/LeetcodeDSA/tree/master/0001-two-sum) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jadlisahil5-pixel/LeetcodeDSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
